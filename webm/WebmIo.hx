@@ -1,6 +1,5 @@
 package webm;
 
-import cpp.Lib;
 import haxe.io.BytesData;
 
 class WebmIo 
